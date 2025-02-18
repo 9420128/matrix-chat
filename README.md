@@ -11,7 +11,7 @@
 
    ```bash
    git clone https://github.com/9420128/matrix-chat
-   cd matrix.chat
+   cd matrix-chat
    node --version   # Проверка версии Node.js
    npm install      # Установка зависимостей
    ```
