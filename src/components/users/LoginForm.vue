@@ -6,7 +6,7 @@ const authStore = useAuthStore()
 
 const homeServer = ref('https://matrix-client.matrix.org')
 const username = ref('evgeniy_ko_spb')
-const password = ref('%#3!k_^9q8hTrV')
+const password = ref('%#;3!k_^9q8hTrV')
 const errorMessage = ref('')
 const isLoading = ref(false)
 
