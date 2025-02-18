@@ -10,8 +10,8 @@
    В командной строке выполните команды:
 
    ```bash
-   git clone https://github.com/9420128/matrix-chat
-   cd matrix.chat
+   git clone https://github.com/9420128/matrix-chat.git
+   cd matrix-chat
    node --version   # Проверка версии Node.js
    npm install      # Установка зависимостей
    ```
